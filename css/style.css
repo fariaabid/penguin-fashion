@@ -50,3 +50,19 @@ body{
     color: #363958;
     margin-top: 100px;
 }
+.card-image{
+    height: 450px;
+    width: auto;
+    background-color: lightslategray;
+    padding: 10px;
+    padding-top: 10px;
+    margin: 0 10px 10px 10px;
+    border-radius: 20px;
+    
+}
+.card{
+    width: auto;
+    border: none;
+    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);
+}
+
