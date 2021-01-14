@@ -40,64 +40,27 @@ body{
 .hero-section-second-div img{
     height: 600px;
     margin-left: 30%;
+    width: 70%;
+
 }
-.product-cat-title h3{
-    font-family: Bebas Neue;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 48px;
-    line-height: 48px;
-    color: #363958;
-    margin-top: 100px;
+.hero-section-second-div{
+    width: 500px;
 }
 .card-image{
-    height: 550px;
-    width: auto;
-    background-color: lightslategray;
-    padding: 10px;
-    padding-top: 10px;
-    margin: 0 10px 10px 10px;
-    border-radius: 20px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 5%;
     
 }
-.card{
-    width: auto;
-    border: none;
-    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);
-}
-
-
-/*  */
-
-
-.card {
-    border: none;
-    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);
-    border-radius: 10px;
-}
-
-.card img {
-    padding-top: 30px;
-    width: 75%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
-.box{
-    height: 200px;
-    width: 300px;
-}
-.faria img{
-    width: 100%;
-    
-    height: 100%;
-}
-.faria1{
-    height: 800px;
-    padding-top: 100px;
+.number-234{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FABE4C;
 }
 .forth-section{
-    margin-top: 150px;
+    margin-top: 140%;
 }
 
 /* extra */
@@ -126,6 +89,14 @@ body{
 .newsletter{
     margin-top: 15%;
     margin-bottom: 10%;
+}
+
+
+/*  */
+/*  */
+/*  */
+.faria-html{
+    width: 20px;
 }
 
 
