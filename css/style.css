@@ -2,11 +2,31 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
 }
-.faria{
+.navbar-link{
     margin-left: 200px;
    font-weight: 900;
    color: black;
 }
 .navbarheight{
     height: 150px;
+}
+.header{
+    height: 1000px;
+    background-color: rgb(255,251, 240);
+}
+.button-style{
+    background-color: rgb(153, 178, 54);
+    color: white;
+    border-radius: 10px;
+    height: 59px;
+    width: 150px;
+    align-items: center;
+}
+.hero-section-first-div{
+    margin-left: 7%;
+    margin-top: 10%;
+}
+.hero-section-second-div img{
+    height: 500px;
+    margin-left: 30%;
 }
