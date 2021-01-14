@@ -60,7 +60,7 @@ body{
     color: #FABE4C;
 }
 .forth-section{
-    margin-top: 120%;
+    margin-top: 10%;
 }
 
 
@@ -112,9 +112,9 @@ body{
 .card-title{
     Font:roboto;
     font-weight: 700;
-    Style: normal;
+    font-style: normal;
     font-size:24px;
-    Line height:28.13px;
+    Line-height:28.13px;
     color: #363958;
 
 }
@@ -126,9 +126,12 @@ body{
     line-height: 48px;
     color: #363958;
 }
-@media (max-width: 768) {
+@media (max-width: 576px) {
     .forth-section{
-        margin-top: 3000%;
+        margin-top: 720%;
+    }
+    .newsletter{
+        margin-top: -110%;
     }
 }
 
