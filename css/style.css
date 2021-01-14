@@ -2,3 +2,11 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
 }
+.faria{
+    margin-left: 200px;
+   font-weight: 900;
+   color: black;
+}
+.navbarheight{
+    height: 150px;
+}
