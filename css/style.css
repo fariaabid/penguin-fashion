@@ -63,6 +63,7 @@ body{
     margin-top: 120%;
 }
 
+
 /* extra */
 .contact-info img,
 .social-media img {
@@ -87,7 +88,7 @@ body{
     background-color: limegreen;
 }
 .newsletter{
-    margin-top: 15%;
+    margin-top: -35%;
     margin-bottom: 10%;
 }
 
