@@ -26,7 +26,18 @@ body{
     margin-left: 7%;
     margin-top: 10%;
 }
+.hero-section-first-div h1{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    color: rgb(54, 57, 88);
+}
+#yellow-color{
+    color: #FABE4C;
+}
 .hero-section-second-div img{
-    height: 500px;
+    height: 600px;
     margin-left: 30%;
 }
