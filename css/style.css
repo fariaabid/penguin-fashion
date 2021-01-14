@@ -99,9 +99,38 @@ body{
 .faria-html{
     width: 20px;
 }
+.support{
+   font: roboto;
+   font-weight: 700;
+   color: #363958;
+}
+.card-text{
+    font: roboto;
+    font-weight: 400;
+    color: #3E3E3E;
+}
+.card-title{
+    Font:roboto;
+    font-weight: 700;
+    Style: normal;
+    font-size:24px;
+    Line height:28.13px;
+    color: #363958;
 
-
-
+}
+.jacket-title{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 48px;
+    color: #363958;
+}
+@media (max-width: 768) {
+    .forth-section{
+        margin-top: 3000%;
+    }
+}
 
 
 
