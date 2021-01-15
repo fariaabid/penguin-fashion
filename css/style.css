@@ -7,6 +7,17 @@ body{
    font-weight: 900;
    color: black;
 }
+@media (max-width:500px){
+    .navbar-image{
+        width: 350px;       
+    }
+    .jacket-position{
+        margin-left: 40px;
+    }
+    .forth-section-text{
+        text-align: center;
+    }
+}
 .navbarheight{
     height: 150px;
 }
