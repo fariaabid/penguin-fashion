@@ -85,7 +85,9 @@ body{
     margin-top: 100px;
     margin-bottom: 50px;
 }
-
+#forth-section-image{
+    height: 370px;
+}
 .footer-height{
     height: 100px;
 }
