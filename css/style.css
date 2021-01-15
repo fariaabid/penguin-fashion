@@ -110,17 +110,14 @@ body{
     line-height: 48px;
     color: #363958;
 }
-/* @media (min-width: 576px){
-    .newsletter{
-        margin-top: -600px;
-    }
-    .hero-section{
-        flex:none;
-    }
-      
-   }
-} */
-
+.forth-section{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.newsletter{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
 
 
 
