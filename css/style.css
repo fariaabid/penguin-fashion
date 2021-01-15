@@ -10,8 +10,7 @@ body{
 .navbarheight{
     height: 150px;
 }
-.header{
-    
+.header{   
     background-color: #fff1cb;;
 }
 .button-style{
@@ -22,11 +21,7 @@ body{
     width: 150px;
     align-items: center;
 }
-.hero-section-first-div{
-    margin-left: 7%;
-    margin-top: 10%;
-}
-.hero-section-first-div h1{
+#hero-section-h1{
     font-family: Bebas Neue;
     font-style: normal;
     font-weight: 400;
@@ -37,19 +32,9 @@ body{
 #yellow-color{
     color: #FABE4C;
 }
-.hero-section-second-div img{
-    height: 600px;
-    margin-left: 30%;
-    width: 70%;
-
-}
-.hero-section-second-div{
-    width: 500px;
-}
 .card-image{
     background-color: rgb(241, 241, 241);
-    border-radius: 5%;
-    
+    border-radius: 5%;   
 }
 .number-234{
     font-family: Roboto;
@@ -59,31 +44,7 @@ body{
     line-height: 42px;
     color: #FABE4C;
 }
-
-.contact-info img,
-.social-media img {
-    width: 16px;
-    height: 16px;
-}
-.contact-info img {
-    margin-right: 10px;
-}
-.social-media li a {
-    display: block;
-    text-align: center;
-    width: 28px;
-    height: 28px;
-    background-color: #000000;
-    border-radius: 50%;
-}
-.social-media li a:hover {
-    background-color: limegreen;
-}
-
-.faria-html{
-    width: 20px;
-}
-.support{
+.third-section{
    font: roboto;
    font-weight: 700;
    color: #363958;
@@ -100,9 +61,8 @@ body{
     font-size:24px;
     Line-height:28.13px;
     color: #363958;
-
 }
-.jacket-title{
+.dress-title{
     font-family: Bebas Neue;
     font-style: normal;
     font-weight: 600;
@@ -114,9 +74,9 @@ body{
     margin-top: 100px;
     margin-bottom: 50px;
 }
-.newsletter{
-    margin-top: 150px;
-    margin-bottom: 150px;
+
+.footer-height{
+    height: 100px;
 }
 
 
