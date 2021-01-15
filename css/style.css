@@ -11,7 +11,7 @@ body{
     height: 150px;
 }
 .header{
-    height: 1000px;
+    
     background-color: #fff1cb;;
 }
 .button-style{
@@ -60,21 +60,16 @@ body{
     color: #FABE4C;
 }
 .forth-section{
-    margin-top: 10%;
+    
 }
-
-
-/* extra */
 .contact-info img,
 .social-media img {
     width: 16px;
     height: 16px;
 }
-
 .contact-info img {
     margin-right: 10px;
 }
-
 .social-media li a {
     display: block;
     text-align: center;
@@ -83,19 +78,13 @@ body{
     background-color: #000000;
     border-radius: 50%;
 }
-
 .social-media li a:hover {
     background-color: limegreen;
 }
 .newsletter{
-    margin-top: -35%;
-    margin-bottom: 10%;
+   
+   
 }
-
-
-/*  */
-/*  */
-/*  */
 .faria-html{
     width: 20px;
 }
@@ -126,6 +115,16 @@ body{
     line-height: 48px;
     color: #363958;
 }
+/* @media (min-width: 576px){
+    .newsletter{
+        margin-top: -600px;
+    }
+    .hero-section{
+        flex:none;
+    }
+      
+   }
+} */
 
 
 
